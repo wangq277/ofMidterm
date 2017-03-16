@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "BB8273AB8C45DF4E640668DAA2A405748FDD220A",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "BB8273AB8C45DF4E640668DAA2A405748FDD220A" : 9223372036854775807,
+    "66A1C31897A2008FE23C4E92118B4CA4E8C3B938" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "C5D28F96-398B-4FE7-A4AB-0B5CAC8293E1",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "BB8273AB8C45DF4E640668DAA2A405748FDD220A" : "root%20folder\/",
+    "66A1C31897A2008FE23C4E92118B4CA4E8C3B938" : "root%20folder\/Sem2\/of_v0.9.8_osx_%202\/apps\/myApps\/rectangleZeno\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "basicExample",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Sem2\/of_v0.9.8_osx_ 2\/apps\/myApps\/basicExample\/basicExample.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/wangq277\/ofFbo.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "66A1C31897A2008FE23C4E92118B4CA4E8C3B938"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/wangq277\/Qihui.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "BB8273AB8C45DF4E640668DAA2A405748FDD220A"
+    }
+  ]
+}
